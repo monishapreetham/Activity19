@@ -1,5 +1,3 @@
-
-
 ## How it works
 
 Implements two input combinational logic AND gate. The circuit takes two digital inputs and inputs them into an AND gate and the resulting output is shown through an LED.
